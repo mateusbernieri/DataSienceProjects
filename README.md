@@ -14,7 +14,7 @@
 
   **Links:**
  * [LinkedIn](https://www.linkedin.com/in/mateus-bernieri-ramos-6b518a114)
-  * [Medium](https://www.medium.com)
+ * [Medium](https://medium.com/@bernieri.mateus)
   
   
   ## Projetos:
